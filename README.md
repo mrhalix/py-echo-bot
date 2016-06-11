@@ -27,3 +27,5 @@ Powered By [RoyalTeam](https://telegram.me/royalteamnews)
 Created By [@Mrhalix](https://telegram.me/Mrhalix)
 
 Tnx to [@iTalic](https://telegram.me/italic)
+
+Tnx to [CisTeam](https://telegram.me/telecislog)
