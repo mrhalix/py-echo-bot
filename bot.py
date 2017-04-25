@@ -5,9 +5,9 @@ bot = telebot.TeleBot(token)
 	
 f = "Bot Firstname: {}".format(bot.get_me().first_name)
 u = "\nBot username: {}".format(bot.get_me().username)
-i = "\nBot ID: {}".format(bot.get_me().id)
-c = "\n\nThank you for using this source :) \n                 \e[41m@Mrhalix"
-print(f + u + i + c)
+c = "\nBot ID: {}".format(bot.get_me().id)
+k = "\n\nThank you for using this source :) \n                 \e[41m@Mrhalix"
+print(f + u + c + k)
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
